@@ -8,10 +8,10 @@ const About = () => {
           <h1>Data is everywhere.</h1>
           <p>
             It builds up from various sources, becoming a knot that seems
-            impossible to unravel. To top it off, you're losing business
+            impossible to unravel. To top it off, you&apos;re losing business
             opportunities trying to get your head around it.
           </p>
-          <h1>But it doesn't have to be like this.</h1>
+          <h1>But it doesn&apos;t have to be like this.</h1>
           <p>
             With BI Samurai, you get the sharp edge to cut through the knot and
             uncover invaluable clues hiding within the numbers.
