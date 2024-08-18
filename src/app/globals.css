@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+  
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+}
+
+
+
+.jost{
+  font-family: "Jost", sans-serif;  
+}
+
+.Inter {
+  font-family: "Inter", sans-serif;
+}
+
+.text_primary{
+  color: #141618 ;
+}
+
+.text_secondary{
+  color: #414141
+  ;
+}
+
+.text_white{
+  color: #ffffff
+  ;
+}
+
+.text_blue{
+  color: #006cff
+  ;
+}
+
+@media (max-width:840px){
+  .about_container{
+    flex-direction: column;
+  }
+
+  .about_text{
+    width: 100%;
+  }
+
+  .about_img{
+    width: 100%;
+  }
+}
