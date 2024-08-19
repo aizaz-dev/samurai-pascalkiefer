@@ -18,15 +18,9 @@ Join the ranks of our satisfied customers
   </p>
 </div>
 
-<div className=" w-full">
-  <img
-src="/Samurai/bg-foot.png"
-alt=""
-className=" w-full object-cover object-center "
-  />
-</div>
 <SliderOne />
 <SliderTwo />
+<div className=" w-full py-24"><img src="/Samurai/bg-foot.png" alt="" className=" w-full object-cover object-center "/></div>
   </div>
 
 </div>
