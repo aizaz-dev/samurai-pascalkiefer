@@ -7,7 +7,7 @@ import Whatyouwant from "@/app/components/Whatyouwant/Whatyouwant";
 
 export default function Home() {
   return (
-    <div>
+    <div className=" overflow-hidden">
       <section>
         <Hero />
       </section>
